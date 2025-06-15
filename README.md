@@ -35,4 +35,4 @@ This analysis used Excel features like Pivot Tables, Charts, Conditional Formatt
 - *Team Alpha* led revenue in March, excelling in the Decoratives category.  
 - States with larger populations and higher median incomes contributed the most revenue.  
 
-**Please download the Media(zip).zip file to access all screenshots and recordings.**  
+**Please download the Media(zip).zip file to access all screenshots and recordings and Retail_sales_Analysis(zip).zip for excel analysis workbook.**  
